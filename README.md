@@ -81,3 +81,20 @@ This milestone focuses on creating a user-friendly Sign-Up page and implementing
 By completing this milestone, the application now has a functional and secure user registration interface.  
 
 
+#### Milestone 6: User Data Security and Password Encryption  
+
+This milestone focused on enhancing user data security by implementing password encryption and securely storing user information in the database.  
+
+**Key tasks included:**  
+
+1. **Password Encryption:**  
+   - Integrated `bcrypt` to hash user passwords during the signup process.  
+   - Ensured that only the hashed password is stored in the database, enhancing security.  
+
+2. **Storing Complete User Data:**  
+   - Implemented secure storage of user details such as name, email, and other necessary information.  
+   - Ensured that sensitive data is handled appropriately while keeping passwords encrypted.  
+
+This milestone strengthens the security of user authentication, preventing unauthorized access to sensitive information. 
+
+
