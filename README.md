@@ -98,7 +98,6 @@ This milestone focused on enhancing user data security by implementing password 
 This milestone strengthens the security of user authentication, preventing unauthorized access to sensitive information. 
 
 #### Milestone 7: User Authentication and Login  
-
 This milestone focused on implementing a secure login system by verifying user credentials and ensuring proper authentication.  
 
 **Key tasks included:**  
@@ -112,6 +111,7 @@ This milestone focused on implementing a secure login system by verifying user c
    - Compared the hashed input with the stored hashed password to authenticate users.  
 
 This milestone enhances security by ensuring only authenticated users gain access.  
+
 
 #### Milestone 8: Product Card Component and Display  
 
