@@ -97,4 +97,20 @@ This milestone focused on enhancing user data security by implementing password 
 
 This milestone strengthens the security of user authentication, preventing unauthorized access to sensitive information. 
 
+#### Milestone 7: User Authentication and Login  
+
+This milestone focused on implementing a secure login system by verifying user credentials and ensuring proper authentication.  
+
+**Key tasks included:**  
+
+1. **Create Login Endpoint:**  
+   - Developed an API endpoint to accept user credentials (email/username and password).  
+   - Retrieved the corresponding user from the database for authentication.  
+
+2. **Validate Password:**  
+   - Used `bcrypt` to hash the entered password.  
+   - Compared the hashed input with the stored hashed password to authenticate users.  
+
+This milestone enhances security by ensuring only authenticated users gain access.  
+
 
