@@ -127,4 +127,43 @@ This milestone focused on designing and implementing a reusable card component t
    - Implemented a grid or flexbox layout for structured product display.  
    - Used mapping to dynamically render multiple product cards with unique details.  
 
-This milestone improves product presentation, creating a clean and user-friendly browsing experience.  
+This milestone improves product presentation, creating a clean and user-friendly browsing experience. 
+
+Here’s your README update for Milestone 9:  
+
+---
+
+#### Milestone 9: Product Creation Form  
+
+This milestone focuses on building a form to collect product details and handle multiple image uploads.  
+
+**Key Objectives:**  
+1. **Form Implementation:** Designed a structured form to input essential product details.  
+2. **Image Upload:** Enabled multiple image uploads for each product.  
+3. **Data Storage:** Ensured product details are saved in the database for display on the product homepage.  
+
+**Additional Considerations:** 
+- Implementing admin access to restrict product uploads.  
+- Creating a shop profile for users who can upload products.  
+
+This milestone establishes a foundation for product management in the e-commerce platform.
+
+### Milestone 10: Product Schema & API Endpoint  
+
+This milestone focuses on defining the product schema and creating an API endpoint to validate and store product details in MongoDB.  
+
+**Key Objectives:**
+
+1. **Product Schema:**  
+   - Define the product data structure using Mongoose.  
+   - Implement field validations (e.g., required fields, data types).  
+
+2. **API Endpoint:**  
+   - Build a POST endpoint to receive and store product details.  
+   - Validate input before saving to MongoDB.  
+
+**Additional Considerations:**
+- Implement admin access for product uploads.  
+- Allow only shop-profile users to upload products.  
+
+This milestone ensures data integrity and establishes backend functionality for product management.
