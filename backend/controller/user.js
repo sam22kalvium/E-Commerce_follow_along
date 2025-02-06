@@ -33,7 +33,7 @@ router.post("/create-user",upload.single("file"),catchAsyncErrors(async (req, re
     }
     const hashedPassword = await bcrypt.hash(password, 10);
     console.log("At Create ", "Password: ", password, "Hash: ", hashedPassword);
-    const user = await User.create({
+    const user = new User({
       name,
       email,
       password: hashedPassword,
@@ -42,6 +42,7 @@ router.post("/create-user",upload.single("file"),catchAsyncErrors(async (req, re
         url: fileUrl,
       },
     });
+    await user.save();
     console.log(user,"user");
     res.status(201).json({ success: true, user });
   })

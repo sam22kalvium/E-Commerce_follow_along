@@ -167,3 +167,14 @@ This milestone focuses on defining the product schema and creating an API endpoi
 - Allow only shop-profile users to upload products.  
 
 This milestone ensures data integrity and establishes backend functionality for product management.
+
+### Milestone 11: Dynamic Product Display  
+
+This milestone makes the home page dynamic by fetching and displaying product data from MongoDB.  
+
+#### Key Tasks:  
+- Create an API endpoint to fetch all product data.  
+- Implement a function to receive and display data in the frontend.  
+- Use the product card component for dynamic rendering.  
+
+This ensures smooth data flow between backend and frontend.
