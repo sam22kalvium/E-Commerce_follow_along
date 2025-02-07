@@ -178,3 +178,14 @@ This milestone makes the home page dynamic by fetching and displaying product da
 - Use the product card component for dynamic rendering.  
 
 This ensures smooth data flow between backend and frontend.
+
+### Milestone 12: My Products Page  
+
+This milestone focuses on displaying user-specific products by filtering them based on email.  
+
+#### Key Tasks:  
+- Create an API endpoint to fetch products linked to the user’s email.  
+- Implement a function to retrieve and display filtered data in the frontend.  
+- Use the product card component for dynamic rendering.  
+
+This ensures users see only their added products, improving personalization.
