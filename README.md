@@ -196,3 +196,14 @@ This milestone adds functionality to edit uploaded products, allowing users to u
 - Implement auto-fill for the form to allow easy editing of product details.  
 
 This ensures users can modify product information efficiently.
+
+### Milestone 14: Delete Product Functionality  
+
+This milestone adds the ability to delete products, allowing users to remove items from the database.  
+
+#### Key Tasks:  
+- Create an endpoint to delete a product by its ID in MongoDB.  
+- Add a delete button to the product card in the frontend.  
+- Implement logic to send the product ID to the backend for deletion.  
+
+This milestone covers the delete operation and enhances product management functionality.
