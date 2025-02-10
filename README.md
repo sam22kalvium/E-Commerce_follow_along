@@ -129,10 +129,6 @@ This milestone focused on designing and implementing a reusable card component t
 
 This milestone improves product presentation, creating a clean and user-friendly browsing experience. 
 
-Here’s your README update for Milestone 9:  
-
----
-
 #### Milestone 9: Product Creation Form  
 
 This milestone focuses on building a form to collect product details and handle multiple image uploads.  
