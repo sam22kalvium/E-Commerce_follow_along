@@ -34,11 +34,11 @@ The backend of the e-commerce platform is developed using Node.js and Express.js
 6. Responsive Frontend
 The frontend is built using html, css, java script React.js, providing a dynamic and responsive user interface. React.js enhances user interaction by offering components that handle views efficiently, resulting in a smoother, faster, and more intuitive experience for customers.
 
-#### Milestone 1: Initialize Project Repository  
+### Milestone 1: Initialize Project Repository  
 
 This milestone focused on setting up the GitHub repository to serve as the central hub for the e-commerce project's development. By creating the repository and initializing it with a README file, the project gained a clear starting point with version control, ensuring organization and collaboration as the development progresses.
 
-#### Milestone 2: Project Setup and Login Page 
+### Milestone 2: Project Setup and Login Page 
 This milestone focused on establishing the foundational structure and core functionalities of the project. 
 
 Key tasks included:
@@ -48,7 +48,7 @@ Key tasks included:
 4. **Development Tools:** Integrated optional extensions to enhance productivity.
 5. **Login Page:** Designed and developed a functional, styled login page as the first user-facing feature of the application.
 
-#### Milestone 3: Backend Structure and Server Setup  
+### Milestone 3: Backend Structure and Server Setup  
 
 This milestone focused on setting up the backend infrastructure and establishing a robust foundation for server-side operations. 
 
@@ -60,7 +60,7 @@ Key tasks included:
 
 This milestone establishes a functional backend and prepares the project for future development.  
 
-#### Milestone 4: User Management and File Upload  
+### Milestone 4: User Management and File Upload  
 
 This milestone focuses on implementing user data handling and file upload functionality. 
 
@@ -71,7 +71,7 @@ Key achievements include:
 
 By completing this milestone, the application now supports user management and file uploads, enhancing its core functionality.  
 
-#### Milestone 5: Signup page and Validation  
+### Milestone 5: Signup page and Validation  
 
 This milestone focuses on creating a user-friendly Sign-Up page and implementing essential form validation. Key tasks include:  
 
@@ -81,7 +81,7 @@ This milestone focuses on creating a user-friendly Sign-Up page and implementing
 By completing this milestone, the application now has a functional and secure user registration interface.  
 
 
-#### Milestone 6: User Data Security and Password Encryption  
+### Milestone 6: User Data Security and Password Encryption  
 
 This milestone focused on enhancing user data security by implementing password encryption and securely storing user information in the database.  
 
@@ -97,7 +97,7 @@ This milestone focused on enhancing user data security by implementing password 
 
 This milestone strengthens the security of user authentication, preventing unauthorized access to sensitive information. 
 
-#### Milestone 7: User Authentication and Login  
+### Milestone 7: User Authentication and Login  
 This milestone focused on implementing a secure login system by verifying user credentials and ensuring proper authentication.  
 
 **Key tasks included:**  
@@ -113,7 +113,7 @@ This milestone focused on implementing a secure login system by verifying user c
 This milestone enhances security by ensuring only authenticated users gain access.  
 
 
-#### Milestone 8: Product Card Component and Display  
+### Milestone 8: Product Card Component and Display  
 
 This milestone focused on designing and implementing a reusable card component to display products effectively on the products page.  
 
@@ -129,7 +129,7 @@ This milestone focused on designing and implementing a reusable card component t
 
 This milestone improves product presentation, creating a clean and user-friendly browsing experience. 
 
-#### Milestone 9: Product Creation Form  
+### Milestone 9: Product Creation Form  
 
 This milestone focuses on building a form to collect product details and handle multiple image uploads.  
 
