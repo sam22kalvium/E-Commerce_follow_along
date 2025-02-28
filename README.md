@@ -309,3 +309,15 @@ In this milestone, we will create a select address page in the frontend and defi
 - Define a Mongoose schema for order details.  
 
 This milestone focuses on enabling address selection and order storage.
+
+### Milestone 24: Order Confirmation Page  
+
+In this milestone, we will create an order confirmation page in the frontend to display order details.  
+
+#### Key Tasks:  
+- Show all ordered products.  
+- Display the selected delivery address.  
+- Calculate and show the total price.  
+- Add a "Place Order" button.  
+
+This milestone focuses on finalizing order details before placement.
