@@ -321,3 +321,27 @@ In this milestone, we will create an order confirmation page in the frontend to 
 - Add a "Place Order" button.  
 
 This milestone focuses on finalizing order details before placement.
+
+### Milestone 25: Backend Endpoint for Placing Orders  
+
+In this milestone, we will create a backend endpoint to handle order placement.  
+
+#### Key Tasks:  
+- Create an API endpoint to receive products, user details, and address information.  
+- Retrieve the `_id` of the user using their email.  
+- Store each product as a separate order with the same address.  
+- Save order details in the MongoDB `orders` collection using the existing order schema.  
+
+This milestone focuses on implementing backend functionality to process and store orders efficiently.
+
+### Milestone 26: Fetch User Orders  
+
+In this milestone, we will create a backend endpoint to retrieve all orders placed by a specific user.  
+
+#### Key Tasks:  
+- Create an API endpoint that receives the user's email.  
+- Use the email to retrieve the `_id` of the user from the database.  
+- Query the `orders` collection to fetch all orders associated with the user.  
+- Send the retrieved orders in the API response.  
+
+This milestone focuses on implementing a backend feature that allows users to view their complete order history efficiently.
