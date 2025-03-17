@@ -345,3 +345,16 @@ In this milestone, we will create a backend endpoint to retrieve all orders plac
 - Send the retrieved orders in the API response.  
 
 This milestone focuses on implementing a backend feature that allows users to view their complete order history efficiently.
+
+### Milestone 27: Create My Orders Page  
+
+In this milestone, we will create a frontend page that displays all user orders.  
+
+#### Key Tasks:  
+- Create a `MyOrders` page in the frontend.  
+- Send a GET request to the `my-orders` endpoint.  
+- Include the user’s email in the request to fetch their orders.  
+- Display all retrieved orders in a structured format.  
+- Add a link to the `MyOrders` page in the navbar for easy access.  
+
+This milestone ensures that users can conveniently view their complete order history in a dedicated section of the website.
