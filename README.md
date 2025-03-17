@@ -358,3 +358,14 @@ In this milestone, we will create a frontend page that displays all user orders.
 - Add a link to the `MyOrders` page in the navbar for easy access.  
 
 This milestone ensures that users can conveniently view their complete order history in a dedicated section of the website.
+
+### Milestone 28: Add Cancel Order Functionality  
+
+In this milestone, we will enable users to cancel their orders from the `MyOrders` page.  
+
+#### Key Tasks:  
+- Add a "Cancel Order" button for each order (hide if already canceled).  
+- Create a backend endpoint to receive `order-id` and update the status to "Canceled."  
+- Save the updated status in the database.  
+
+This milestone enhances user control by allowing order cancellations.
