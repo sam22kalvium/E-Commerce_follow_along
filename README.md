@@ -369,3 +369,14 @@ In this milestone, we will enable users to cancel their orders from the `MyOrder
 - Save the updated status in the database.  
 
 This milestone enhances user control by allowing order cancellations.
+
+### Milestone 29: Integrate PayPal Payment Gateway  
+
+In this milestone, we will set up PayPal API for online payments.  
+
+#### Key Tasks:  
+- Create a PayPal developer account and get sandbox credentials.  
+- Add **COD** and **Online Payment** options on the order confirmation page.  
+- Show PayPal buttons when "Online Payment" is selected.  
+
+This milestone sets up the foundation for secure online transactions.
