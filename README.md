@@ -380,3 +380,14 @@ In this milestone, we will set up PayPal API for online payments.
 - Show PayPal buttons when "Online Payment" is selected.  
 
 This milestone sets up the foundation for secure online transactions.
+
+### Milestone 30: Implement PayPal Online Payment  
+
+In this milestone, we will integrate PayPal for online payments.  
+
+#### Key Tasks:  
+- Use PayPal sandbox credentials.  
+- Install `react-paypal-js` and use `PayPalScriptProvider`.  
+- Implement PayPal payment processing.  
+
+This milestone enables secure online transactions.
