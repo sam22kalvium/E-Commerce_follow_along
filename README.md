@@ -391,3 +391,15 @@ In this milestone, we will integrate PayPal for online payments.
 - Implement PayPal payment processing.  
 
 This milestone enables secure online transactions.
+
+### Milestone 31: Global State with Redux  
+
+Set up Redux to manage the user's email globally.  
+
+#### Key Tasks:  
+- Install `react-redux`.  
+- Create `store.js` and `userActions.js`.  
+- Configure `userReducer` to store email.  
+- Wrap `App` with `Provider`.  
+
+This milestone enables centralized state management.
