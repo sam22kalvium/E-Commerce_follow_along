@@ -403,3 +403,13 @@ Set up Redux to manage the user's email globally.
 - Wrap `App` with `Provider`.  
 
 This milestone enables centralized state management.
+
+### Milestone 32: Using Redux for Global State  
+
+Store and access the user's email across all pages using Redux.  
+
+#### Key Tasks:  
+- Use `dispatch` in the Login page to store the email in global state.  
+- Use `useSelector` to access the email in other pages.  
+
+This milestone enhances state management by making user data accessible throughout the app.
