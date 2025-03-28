@@ -413,3 +413,38 @@ Store and access the user's email across all pages using Redux.
 - Use `useSelector` to access the email in other pages.  
 
 This milestone enhances state management by making user data accessible throughout the app.
+
+### Milestone 33: JWT Token and Cookies  
+
+Implement JWT authentication by generating and storing tokens in cookies.  
+
+#### Key Tasks:  
+- Install `jsonwebtoken`.  
+- Create a JWT using `sign` with email and ID.  
+- Set `maxAge` for expiration.  
+- Store the token in a cookie via the response.  
+
+This milestone focuses on secure authentication using JWT and cookies.
+
+### Milestone 34: JWT Token Validation  
+
+Validate the JWT token stored in cookies to secure user authentication.  
+
+#### Key Tasks:  
+- Extract the token from browser cookies and send it to the server.  
+- Implement a middleware function to validate the token.  
+- Ensure protected pages require authentication before access.  
+
+This milestone enhances security by enforcing JWT validation across the app.
+
+### Milestone 35: Project Deployment  
+
+Deploy both the frontend and backend to make the project live.  
+
+#### Key Tasks:  
+- Deploy the backend using a hosting service and get the deployment link.  
+- Update the frontend to use the deployed backend URL.  
+- Deploy the frontend using a hosting service.  
+- Ensure both frontend and backend are working properly.  
+
+This milestone completes the project with a fully deployed and functional website. 🚀
